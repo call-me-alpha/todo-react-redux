@@ -1,0 +1,52 @@
+{
+  "todos": [
+    {
+      "id": "3dc6e5e8-611b-455c-a7df-5d1bc87b22b9",
+      "name": "learn js",
+      "completed": true,
+      "priority": "Medium"
+    },
+    {
+      "id": "156f2068-6c22-480d-9d08-968f196f8d0d",
+      "name": "1",
+      "completed": true,
+      "priority": "Medium"
+    },
+    {
+      "id": "c563bb01-295c-47fd-811c-958ed551f94d",
+      "name": "2",
+      "completed": true,
+      "priority": "Medium"
+    },
+    {
+      "id": "138dd77a-dbf2-4650-aafe-98914bf6c364",
+      "name": "3",
+      "completed": false,
+      "priority": "Medium"
+    },
+    {
+      "id": "8a7f6ebb-77f5-4c95-9975-8576fa1cf8c4",
+      "name": "lean react",
+      "completed": false,
+      "priority": "Medium"
+    },
+    {
+      "id": "50377793-ee2d-4db3-b65b-989cd922f0be",
+      "name": "learn redux",
+      "completed": true,
+      "priority": "Medium"
+    },
+    {
+      "id": "b813d39a-48f0-465c-863f-0022dcf66e05",
+      "name": "learn redux-thunk",
+      "completed": true,
+      "priority": "Medium"
+    },
+    {
+      "id": "1e09cc09-fa6a-4542-a424-151d7d5d27a2",
+      "name": "learn redux-saga",
+      "completed": true,
+      "priority": "Medium"
+    }
+  ]
+}
